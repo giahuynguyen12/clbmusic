@@ -117,7 +117,7 @@ body {
 
 .header {
   position: relative;
-  background-image: url("../images/background-header.jpg");
+  background-image: url("musicbanner.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: 950px;
